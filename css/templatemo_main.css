@@ -1,10 +1,4 @@
-/*
 
-Zoom Template
-
-http://www.templatemo.com/tm-414-zoom
-
-*/
 
 body, html { overflow-x:hidden; }
 
@@ -173,7 +167,10 @@ img.slide {
 }
 
 #map-canvas {
-	height: 260px;
+	height: 350px;
+	max-width: 600px;
+	margin: auto;
+	border-radius: 10px;
 }
 
 
